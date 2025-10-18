@@ -81,4 +81,6 @@
   </a>
 </div>
 
+[![An image of @ashishgit10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashishgit10)](https://holopin.io/@ashishgit10)
+
 ###
