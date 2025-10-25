@@ -81,7 +81,7 @@
   </a>
 </div>
 
-<h3 align="left">Open Source Contribution</h3>
+<h3 align="left">👨‍💻 Open Source Contribution</h3>
 
 ###
 
